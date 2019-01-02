@@ -1,2 +1,2 @@
 # NLP
-NLP methods
+Popular NLP methods will be given in this repository
